@@ -4,7 +4,7 @@ switch (animeName) {
     case "Boruto":
         console.log("That's his son series");
         break;
-    case "BlackClover":
+    case "Black":
         console.log("That's not the right one");
         break;
     case "Naruto":
